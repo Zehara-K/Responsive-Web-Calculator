@@ -3,8 +3,22 @@ body{
     display: center;
     margin-top:80px ;
 }
+@media (max-width: 480px) {
+    button {
+        font-size: 16px;
+        height: 45px;
+    }
+
+    .display {
+        font-size: 20px;
+    }
+}
+
 .calculator{
     background-color: #2C2C2C;
+    width: 90%;
+    max-width: 320px;
+    height: auto;
     width: 300px;
     height:370px;
     padding: 10px;
@@ -16,6 +30,8 @@ body{
     
         }
 .display{
+    width: 100%;
+    box-sizing: border-box;
     height: 60px;
     font-size: 24px;
     text-align: right;
@@ -75,4 +91,5 @@ button:active {
     text-align: center;
     margin-bottom: 20px;
     font-size: 14px;
+
 }

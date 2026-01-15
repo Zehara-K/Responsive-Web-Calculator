@@ -11,18 +11,18 @@
   - Division
 - Clear and easy-to-use interface
 - Real-time calculation using JavaScript
-- 
+  
 ## 🛠️ Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript (ES6)
-- 
+  
 ## 📱 Responsive Design
 The calculator layout adapts to different screen sizes using responsive CSS, ensuring a smooth user experience on all devices.
 
 ## 📂 Project Structure
-├── index.html # Calculator UI structure
+├── index.html # UI structure
 ├── style.css # Styling and responsive layout
 ├── script.js # Calculator logic
 └── README.md # Project documentation
@@ -31,7 +31,7 @@ The calculator layout adapts to different screen sizes using responsive CSS, ens
 1. Download or clone the repository
 2. Open `index.html` in any web browser
 3. Use the calculator for basic calculations
-4. 
+ 
 ## 👩‍💻 Author
 Zehara K
 
